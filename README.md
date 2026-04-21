@@ -17,7 +17,7 @@ Os principais objetivos deste caderno temático foram:
 - consolidar o conteúdo em um material de revisão reutilizável
 
 ## Ferramentas Utilizadas
-- [NotebookLM](https://notebooklm.google.com/)
+- [NotebookLM](https://notebooklm.google.com/notebook/d95ee3b8-2ec2-4bfc-a57e-f2bd51973fea)
 - GitHub para documentação e versionamento do projeto
 
 ## Curadoria de Fontes
