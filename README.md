@@ -90,7 +90,8 @@ biografia, principais obras, temas recorrentes e relevância literária.
 ### 2. Prompt de Explicação em Linguagem Simples
 
 ```txt
-Explique quem foi Clarice Lispector em linguagem simples, como se o leitor nunca tivesse estudado literatura brasileira.
+Explique quem foi Clarice Lispector em linguagem simples, como se o leitor nunca tivesse estudado 
+literatura brasileira.
 ```
 
 **Objetivo:** Traduzir o conteúdo para uma linguagem mais acessível e didática.
@@ -104,7 +105,8 @@ Explique quem foi Clarice Lispector em linguagem simples, como se o leitor nunca
 ### 3. Prompt de Análise Literária
 
 ```txt
-Liste e explique as principais características da escrita de Clarice Lispector, indicando temas recorrentes e padrões observados nas fontes.
+Liste e explique as principais características da escrita de Clarice Lispector, indicando 
+temas recorrentes e padrões observados nas fontes.
 ```
 
 **Objetivo:** Separar biografia de análise literária e aprofundar o estudo do estilo da autora.
@@ -128,8 +130,7 @@ Liste e explique as principais características da escrita de Clarice Lispector,
 ### 5. Prompt de Revisão Ativa
 
 ```txt
-Crie 10 perguntas e respostas para revisão sobre Clarice Lispector
-com base exclusivamente nas fontes fornecidas.
+Crie 10 perguntas e respostas para revisão sobre Clarice Lispector com base exclusivamente nas fontes fornecidas.
 ```
 
 **Objetivo:** Transformar o conteúdo estudado em material de revisão.
@@ -143,7 +144,8 @@ com base exclusivamente nas fontes fornecidas.
 ### 6. Prompt de Controle de Qualidade
 
 ```txt
-Valide as fontes que foram passadas. Verifique se são confiáveis e de boa qualidade e justifique sua resposta.
+Valide as fontes que foram passadas. Verifique se são confiáveis e de boa qualidade e 
+justifique sua resposta.
 ```
 
 **Objetivo:** Aumentar a confiabilidade das respostas e reduzir extrapolações.
