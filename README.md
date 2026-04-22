@@ -1,7 +1,7 @@
 # Projeto: Caderno Temático com NotebookLM - Clarice Lispector
 
 ## Descrição do Projeto
-Este repositório foi criado como parte de um desafio prático utilizando Inteligência Artificial como ferramenta de aprendizagem ativa. A proposta foi utilizar a ferramente NotebookLM do Google para estudar a obra e a importância literária de Clarice Lispector, organizando fontes confiáveis, testando estratégias de prompting e consolidando o aprendizado em um miniguia de estudos.
+Este repositório foi criado como parte de um desafio prático utilizando Inteligência Artificial como ferramenta de aprendizagem ativa. A proposta foi utilizar a ferramenta NotebookLM do Google para estudar a obra e a importância literária de Clarice Lispector, organizando fontes confiáveis, testando estratégias de prompting e consolidando o aprendizado em um miniguia de estudos.
 
 ## Tema Escolhido
 **Clarice Lispector: vida, obra e características da escrita**
