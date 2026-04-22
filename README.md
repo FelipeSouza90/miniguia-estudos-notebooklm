@@ -199,11 +199,14 @@ Os recursos do Estúdio foram importantes porque ajudaram a transformar um conju
 
 ## Evidências Visuais
 
-> **Visão geral do caderno temático** — Estrutura do notebook, incluindo fontes reunidas e ambiente de estudo.
+**Visão geral do caderno temático**
+![Visão geral do caderno temático](assets/visao_geral.jpg)
 
-> **Exemplo de interação com prompt analítico**
+**Exemplo de interação com prompt analítico**
+![Exemplo de prompt analítico](assets/prompt.jpg)
 
-> **Uso dos recursos do Estúdio (mapa mental)**
+**Uso dos recursos do Estúdio (mapa mental)**
+![Mapa mental no Estúdio](assets/mapa_mental.jpg)
 
 ---
 
