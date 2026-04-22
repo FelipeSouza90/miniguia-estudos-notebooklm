@@ -75,7 +75,8 @@ Os prompts foram organizados por finalidade, buscando demonstrar uso intencional
 ### 1. Prompt de Compreensão Inicial
 
 ```txt
-Faça um panorama estruturado sobre Clarice Lispector com base apenas nas fontes fornecidas, separando biografia, principais obras, temas recorrentes e relevância literária.
+Faça um panorama estruturado sobre Clarice Lispector com base apenas nas fontes fornecidas, separando 
+biografia, principais obras, temas recorrentes e relevância literária.
 ```
 
 **Objetivo:** Obter uma visão geral do tema e organizar os principais eixos do estudo.
