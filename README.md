@@ -1,5 +1,15 @@
 # Projeto: Caderno Temático com NotebookLM — Clarice Lispector
 
+# Projeto: Caderno Temático com NotebookLM — Clarice Lispector
+
+![Status](https://img.shields.io/badge/status-concluído-brightgreen)
+![Ferramenta](https://img.shields.io/badge/ferramenta-NotebookLM-blue)
+![Tema](https://img.shields.io/badge/tema-Clarice%20Lispector-purple)
+![Tipo](https://img.shields.io/badge/tipo-estudo%20ativo-orange)
+
+## Descrição do Projeto
+...
+
 ## Descrição do Projeto
 
 Este repositório documenta um projeto de aprendizagem ativa desenvolvido com o apoio do **NotebookLM** do Google, com foco no estudo de **Clarice Lispector** — sua trajetória, sua obra e as principais características de sua escrita.
