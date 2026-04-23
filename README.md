@@ -1,14 +1,8 @@
 # Projeto: Caderno Temático com NotebookLM — Clarice Lispector
-
-# Projeto: Caderno Temático com NotebookLM — Clarice Lispector
-
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 ![Ferramenta](https://img.shields.io/badge/ferramenta-NotebookLM-blue)
 ![Tema](https://img.shields.io/badge/tema-Clarice%20Lispector-purple)
 ![Tipo](https://img.shields.io/badge/tipo-estudo%20ativo-orange)
-
-## Descrição do Projeto
-...
 
 ## Descrição do Projeto
 
